@@ -1,4 +1,4 @@
-# Sony-firmware-unpacker
+# Sony-firmware-unpacker Thanks again MA1co/fwtool.py
 Unlock Sony camera firmware package，The process of discovering Sony firmware unpacking
 （CXD90057+CXD90058）Use FF03 to read memory，0xFFFFB800 0xF340F000 8B 89 4F 14 F8 B5 32 23 F8 5B 27 31 97 B1 4E 0C CD E2 52 AF D3 0D D0 4C C3 24 0A C2 35 2C E6 D5
 (CXD90045) Use FF03 to read memory，FFFF5000 0xF340F000 C3FB23712B9E979B8B74DA4DC6B5945C845BD6171CEA7C8EDD2F40D7936CA671
